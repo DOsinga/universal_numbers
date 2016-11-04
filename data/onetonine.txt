@@ -1,0 +1,912 @@
+
+Ainu
+  sine
+  tu
+  re
+  ine
+  asikne
+  iwan
+  arwan
+  tupesan
+  sinepesan
+  wan
+
+Albanian
+  nyeh
+  doo
+  trehh
+  kah-TAHR
+  pehs
+  jahsht
+  shtaht
+  teht
+  nahnt
+  thyeht
+
+Amdo Tibetan
+  khchuhck
+  ghnyee
+  khsuhm
+  vzhuh
+  rngah
+  druhck
+  vduhn
+  vjat
+  rguh
+  fchuh
+
+Armenian
+  mehk
+  yer-KOU
+  yeh-REQ
+  chorse
+  hyng
+  vehts
+  yote
+  oote
+  eene
+  tahs
+
+Balochi
+  Yak
+  Do
+  Se
+  Char
+  Panch
+  Shash
+  hapt
+  Hasht
+  No
+  Da
+
+Belarusian
+  adzin
+  dva
+  tri
+  chatiri
+  piats
+  shests
+  siem
+  vosiem
+  dzieviats
+  dziesiats
+
+Bosnian
+  YEH-dahn
+  dvah
+  tree
+  cheh-TEE-ree
+  peht
+  shehst
+  SEH-dahm
+  OH-sahm
+  DEH-veht
+  DEH-seht
+
+Bulgarian
+  eh-DEEN
+  dvah
+  “tree”
+  CHEH-tee-ree
+  peht
+  shehs
+  SEH-dehm
+  OH-sehm
+  DEH-veht
+  DEH-seht
+
+Burmese
+  tit
+  hni
+  thoun
+  lei
+  nga
+  chao
+  kun
+  shit
+  ko
+  se
+
+Capiznon
+  iSA
+  dooWA
+  tatLO
+  Apat
+  leeMA
+  Anom
+  piTO
+  waLO
+  sham
+  POOlo
+
+Castilian Spanish
+  OO-noh
+  thohs
+  trehs
+  KWAH-troh
+  THEEN-koh
+  says
+  SYEH-teh
+  OO-choh
+  NWEH-beh
+  thyehth
+
+Catalan
+  OON
+  DOHS
+  trehs
+  KWAH-truh
+  seenk
+  sees
+  seht
+  BOO-eet
+  NOH-oo
+  DEH-oo
+
+Cebuano
+  OO-sah,
+  DOO-hah,
+  TOO-loh,
+  OO-paht,
+  LEE-mah,
+  OO-nohm,
+  PEE-toh,
+  WAH-loh,
+  SEE-yahm,
+  nah-POO-loh,
+
+Circassian
+  set
+  qiat
+  bot
+  guyut
+  wirat
+  rokt
+  әrt
+  mošit
+  kuttat
+  tsiut
+
+Croatian
+  YEH-dahn
+  dvah
+  tree
+  CHEH-tee-ree
+  peht
+  shehst
+  SEH-dahm
+  OH-sahm
+  DEH-veht
+  DEH-seht
+
+Czech
+  YEH-dehn
+  dvah
+  trzhee
+  CHTEE-rzhee
+  pyeht
+  shehst
+  SEH-duhm
+  OH-suhm
+  DEH-vyeht
+  DEH-seht
+
+Danish
+  en
+  to
+  trre
+  fear
+  fem
+  seks
+  sur'oo
+  ude
+  ni
+  ti
+
+Dhivehi
+  Ekeh
+  Dheyeh
+  Thineh
+  Hathareh
+  Faheh
+  Hayeh
+  Hatheh
+  Asheh
+  Nuvaeh
+  Dhihaeh
+
+Dutch
+  AIN
+  TWAY
+  DREE
+  VEER
+  VAYF
+  ZEHS
+  ZAY-vuhn
+  AHGT
+  NAY-guhn
+  TEEN
+
+Dutch Low Saxon
+  AYN
+  TWAY
+  DREE
+  VEER
+  VAYF
+  ZEHS
+  ZÖ-vuhn
+  AHGT
+  NAY-uhn
+  TEEN
+
+Estonian
+  ewks
+  kahks
+  kohlm
+  NEH-lee
+  veess
+  kooss
+  SAYT-seh
+  KAH-hek-sah
+  EW-hek-sah
+  KEWM-meh
+
+Finnish
+  UUK-see
+  KAHK-see
+  KOHL-meh
+  NEHL-ya
+  VEE-see
+  KOO-see
+  SAYT-seh-man
+  KAHH-dehk-sahn
+  UUHH-dehk-san
+  KUUM-mehn-nehn
+
+French
+  uhn
+  deu
+  trwah
+  kahtr
+  sihnk
+  sees
+  set
+  weet
+  neuf
+  deece
+
+Galician
+  oon
+  dows
+  trehs
+  KAH-troh
+  THEEN-koh
+  says
+  seht
+  OY-toh
+  NOH-beh
+  dehs
+
+Georgian
+  ehr-tee
+  oh-ree
+  sah-mee
+  oht-khee
+  khoo-tee
+  ehk-vsee
+  shvee-dee
+  rvah
+  tskhrah
+  ah-tee
+
+German
+  ighnss
+  tsvigh
+  drigh
+  fear
+  fuunf
+  zekhs
+  ZEE-ben
+  ahkht
+  noyn
+  tsayn
+
+Greek
+  EH-nahs
+  DHEE-oh
+  trees
+  TESS-a-reess
+  PEN-deh
+  EH-xee
+  ep-TAH
+  okh-TOH
+  en-EH-ah
+  DHEH-kah
+
+Hawaiian
+  ey-KA-hee
+  ey-LOO-ah
+  ey-KOH-loo
+  ey-HAH
+  ey-LEE-ma
+  ey-OH-no
+  ey-HEE-koo
+  ey-VAH-loo
+  ey-EE-vah
+  OO-mee
+
+Hiligaynon
+  EE-sah
+  Du-WAH
+  Tat-LO
+  AhPAT
+  LeeMAH
+  AHnum
+  PEEto
+  WahLO
+  SYA-am
+  SamPUH
+
+Hungarian
+  edj
+  KET
+  HA-rom
+  neydj
+  øt
+  håt
+  heyt
+  nyolts
+  KEE-lents
+  teez
+
+Indonesian
+  SAH-too
+  DOO-ah
+  TEE-gah
+  OM-phat
+  LEE-ma
+  O-nam
+  TOO-jooh
+  day-LA-pan
+  sem-BEE-lan
+  SE-poo-looh
+
+Irish
+  Ayon
+  doe
+  tree
+  cah-har
+  koo-igg
+  shay
+  shokht
+  okt
+  nay
+  deh
+
+Italian
+  OO-noh
+  DOO-eh
+  treh
+  KWAH-troh
+  CHEEN-kweh
+  SEH-ee
+  SEH-teh
+  OH-toh
+  NOH-veh
+  DYEH-chee
+
+Japanese
+  ichi
+  ni
+  san
+  yon
+  go
+  roku
+  nana
+  hachi
+  kyū
+  jū
+
+Jordanian Arabic
+  waaHid
+  tinain
+  talaata
+  arba'a
+  khamseh
+  sitah
+  saba'a
+  thamaaniyeh
+  tisa'a
+  asharah
+
+Kalmyk
+  Negn
+  Xoyr
+  Hurvn
+  Dörvn
+  Tavn
+  Zurhan
+  Dolan
+  Näämn
+  Yisn
+  Arvn
+
+Karachay-Balkar
+  beer
+  eh-kee
+  ooch
+  tort
+  besh
+  al-tuh
+  jeh-tee
+  seg-eez
+  toh-gooz
+  on
+
+Kazakh
+  beer
+  eh-kee
+  oosh
+  tow-rt
+  bes
+  al-ty
+  je-tee
+  sye-geez
+  to-ghyz
+  ohn
+
+Khmer
+  muay
+  pee
+  bei
+  buan
+  pbram
+  pbram
+  pbram
+  pbram
+  pbram
+  dop
+
+Ladakhi
+  chik
+  nyis
+  sum
+  jzhe
+  nghra
+  tuk
+  dun
+  gyat
+  gyu
+  chu
+
+Lao
+  neung
+  song
+  saam
+  sii
+  haa
+  hok
+  jet
+  paet
+  kao
+  sip
+
+Latvian
+  vyehns
+  DIH-vih
+  trees
+  CHEH-trih
+  PYEH-tsih
+  SEH-shih
+  SEHP-tih-nyih
+  UHS-toa-nyih
+  DEH-vee-nyih
+  DEHS-miht
+
+Lithuanian
+  VYEH-nahs
+  doo
+  trihs
+  kah-too-RIH
+  pahn-KIH
+  shah-SHIH
+  sahp-tee-NIH
+  ahsh-tow-NIH
+  dah-vih-NIH
+  DAH-shihmt
+
+Low German
+  AIN
+  TWAY
+  DRAY
+  VééR
+  FEEF
+  ZÖHS
+  ZÖ-vuhn
+  AHGT
+  Né-shuhn
+  TAYN
+
+Macedonian
+  Eden
+  dva
+  tri
+  CHEtiri
+  pet
+  shest
+  SEdum
+  Osum
+  DEvet
+  DEset
+
+Malagasy
+  I-yrah
+  ROU-ah
+  TEH-lou
+  EH-fatreh
+  DE-mey
+  EH-ne
+  FEE-tou
+  VAH-lou
+  SI-vi
+  FOU-lou
+
+Maltese
+  WEE-hed
+  tneyn
+  TLEE-ta
+  EHR-ba
+  HAM-sa
+  SIT-ta
+  SEH-ba
+  tmeehn-ya
+  DIH-sa
+  AA-shra
+
+Manchu
+  emu
+  juwe
+  ilan
+  duin
+  sunja
+  ninggun
+  nadan
+  jakvn
+  uyun
+  juwan
+
+Montenegrin
+  jedan
+  dva
+  tri
+  cetri
+  pet
+  sest
+  sedam
+  osam
+  devet
+  deset
+
+Odia
+  aek
+  dui
+  tini
+  chari
+  panch
+  chha
+  sata
+  atha
+  nao
+  daus
+
+Ossetian
+  iu
+  dluuæ
+  ærtæ
+  tsippar
+  fondz
+  ækhsæz
+  avd
+  ast
+  farast
+  dæs
+
+Pashto
+  YAW
+  DWA
+  DREH
+  tsa-LOHR
+  peen-ZE
+  SHPAG
+  oo-WE
+  a-TE
+  NE
+  LAS
+
+Penan
+  jah
+  doo-ah
+  teh-low
+  paht
+  leh-mah
+  nehm
+  tu-joo
+  aih-yah
+  pih-ehn
+  poh-loh
+
+Polish
+  YEH-den
+  dvah
+  tzhih
+  CHTEH-rih
+  pyench
+  sheshch
+  SHEH-dem
+  OH-shem
+  JEV-yench
+  JESH-yench
+
+Portuguese
+  oon
+  doysh
+  trehsh
+  KWAH-troo
+  SEENG-koo
+  saysh
+  SEH-teh
+  OY-too
+  NOH-veh
+  dehsh
+
+Quechua
+  shuc
+  ishcai
+  quimsa
+  chuscu
+  pichca
+  sucta
+  canchis
+  pusac
+  iscun
+  chunca
+
+Romanian
+  OO-noo
+  doy
+  tray
+  PAH-troo
+  cheench
+  SHAH-seh
+  SHAHP-teh
+  ohpt
+  NOH-uh
+  ZEH-cheh
+
+Russian
+  ah-DEEN
+  dvah
+  tree
+  chee-TYH-ree
+  pyaht’
+  shehst’
+  syeem’
+  VOH-seem’
+  DYEH-veet’
+  DYEH-suht’
+
+Serbian
+  YEH-dahn
+  dvah
+  tree
+  CHEH-tee-ree
+  peht
+  shehst
+  SEH-dahm
+  OH-sahm
+  DEH-veht
+  DEH-seht
+
+Sinhala
+  ekuh
+  dhekuh
+  thunuh
+  hathuhruh
+  paha
+  hayuh
+  hathuh
+  atuh
+  namuhyuh
+  dhahayuh
+
+Slovak
+  YEH-dehn
+  DUH-vah
+  trih
+  SHTIH-rih
+  pehtch
+  SHEHSTCH
+  SEH-dyehm
+  OH-sehm
+  JYEH-vetch
+  JYEH-sahtch
+
+Slovenian
+  EH-nah
+  dvah
+  tree
+  SHTEE-rih
+  peht
+  shehst
+  SEH-dehm
+  OH-sehm
+  deh-VEHT
+  deh-SEHT
+
+Spanish
+  OO-noh
+  dohs
+  trehs
+  KWAH-troh
+  SEEN-koh
+  SEH-ees
+  see-EH-teh
+  OH-choh
+  noo-EH-beh
+  dee-EHS
+
+Tamil
+  ondru
+  irendu
+  moondru
+  naangu
+  ainthu
+  aaru
+  yEzhu
+  yettu
+  onbathu
+  pathu
+
+Telugu
+  OkaTi
+  renDu
+  mooDu
+  naalugu
+  aidu
+  aaru
+  ehDu
+  enimidi
+  tommidi
+  padhi
+
+Thai
+  nueng
+  song
+  saam
+  sii
+  haa
+  hok
+  jet
+  paet
+  kao
+  sip
+
+Tswana
+  bongwe
+  bobedi
+  boraro
+  bone
+  botlhano
+  boratato
+  bosupa
+  borobabobedi
+  borobabongwe
+  lesome
+
+Turkish
+  beer
+  icki
+  uech
+  dirt
+  besh
+  altuh
+  yedi
+  sekiz
+  dokuz
+  on
+
+Ukrainian
+  odyn
+  dvah
+  try
+  chotyry
+  pjat
+  sheest
+  sim
+  visim
+  devjat
+  desjat
+
+Urdu
+  Aik
+  Dou
+  Teen
+  Chaar
+  Panch
+  Chay
+  Saat
+  Aath
+  Nau
+  Dass
+
+Welsh
+  een
+  die
+  tree
+  PED-war
+  pimp
+  ch'way'ch
+  sayeth
+  oo-ith
+  now
+  day-g
+
+West Frisian
+  EE-en
+  TWAH
+  TREE-yuh
+  FYOH-wer
+  FEEF
+  SEYS
+  SORN
+  AHKT
+  NYOG-hen
+  TSEEH-en
+
+Wikivoyage:Joke articles/Goudy
+  End
+  At
+  NUM-baa
+  SOO-laa
+  per-CENT
+  KA-ree
+  And
+  As-ter-ick
+  BRACK-et
+  In-ser
+
+Yiddish
+  eyn
+  tsvey
+  dray
+  fir
+  finf
+  zeks
+  zibm
+  akht
+  nayn
+  tsen
+
+Yonaguni
+  hitotsu
+  futatsu
+  mittsu
+  yottsu
+  itsutsu
+  muttsu
+  nanatsu
+  yattsu
+  kokonotsu
+  too
+
+Universal
+  een (Welsh)
+  doo-ah (Penan)
+  trre (Danish)
+  Char (Balochi)
+  haa (Lao)
+  SEH-ee (Italian)
+  Saat (Urdu)
+  Aath (Urdu)
+  eene (Armenian)
+  deh (Irish)
