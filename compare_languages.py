@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import json
 import re
@@ -44,6 +44,7 @@ def substitution_cost(ch1, ch2):
 
 
 def strip_word(word):
+  word = word.replace('gh', 'y')
   return ''.join(ch for ch in unidecode.unidecode(word).lower() if 'a' <= ch <= 'z')
 
 
@@ -120,7 +121,7 @@ def main():
   with open('data/numbers.json') as fin:
     languages = json.load(fin)
   languages = {name: extract_numbers(name, lang) for name, lang in languages.items()}
-  lang_names = list(sorted(k for k, v in languages.items() if v)) # and k in ('French', 'Italian', 'Dutch', 'German',
+  lang_names = list(sorted(k for k, v in languages.items() if v))# and k in ('French', 'Italian', 'Dutch', 'German')))
   stripped = {name: list(map(strip_word, languages[name])) for name in lang_names}
   by_number = defaultdict(list)
   by_language_pair = defaultdict(list)
@@ -154,6 +155,9 @@ def main():
 
   with open('data/pairs.json', 'w') as fout:
     json.dump(sorted(language_pairs, key=lambda triplet:triplet[2], reverse=True), fout, indent=2)
+
+  with open('data/scored_numbers.json', 'w') as fout:
+    json.dump(by_number, fout, indent=2)
 
 
 if __name__ == '__main__':

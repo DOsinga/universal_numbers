@@ -335,6 +335,18 @@ Hawaiian
   ey-EE-vah
   OO-mee
 
+
+  I-yrah
+  ROU-ah
+  TEH-lou
+  EH-fatreh
+  DE-mey
+  EH-ne
+  FEE-tou
+  VAH-lou
+  SI-vi
+  FOU-lou
+
 Hiligaynon
   EE-sah
   Du-WAH
@@ -900,13 +912,15 @@ Yonaguni
   too
 
 Universal
-  een (Welsh)
-  doo-ah (Penan)
-  trre (Danish)
-  Char (Balochi)
-  haa (Lao)
-  SEH-ee (Italian)
-  Saat (Urdu)
-  Aath (Urdu)
-  eene (Armenian)
-  deh (Irish)
+
+
+  1. een (Welsh)          6. SEH-ee (Italian)
+  2. DOO-ah (Indonesian)  7. Saat (Urdu)
+  3. trre (Danish)        8. Aath (Urdu)
+  4. Char (Balochi)       9. eene (Armenian)
+  5. haa (Lao)           10. deh (Irish)
+
+
+
+
+
