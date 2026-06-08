@@ -1,0 +1,30 @@
+<script type="text/markdown" id="info">
+name: Universal Numbers
+description: >
+  Create universal numbers by comparing the edit distance between all numbers from Wikitravel's phrasebooks and for each picking the 'median' one. As a side effect, create a tree an evolutionary tree.
+type: ai
+github: universal_numbers
+pass_on_request: ['state']
+</script>
+
+<P>
+    Here are the universal numbers and the languages they come from. Learn to count this
+    way and you have the highest chance to be understood if you are talking to a random
+    person (admittedly still not a very high chance, but still).
+
+
+</P>
+    <img src="{{ static }}numbers_1_10.png" width="500" align="center" alt="Numbers"
+    class="media-container">
+<P>
+    You can find the code on <a href="https://github.com/DOsinga/universal_numbers">https://github.com/DOsinga/universal_numbers</a>
+</P>
+<p>
+    As a side effect of comparing all languages with all languages, we also end up with a distance
+    matrix for language to language. We can easily create a tree out of this:
+</p>
+    <img src="{{ static }}language_tree.png" width="648" alt="language tree" class="media-container">
+<p>
+    You can read more about this on the corresponding
+    <a href="http://blog.douweosinga.com/2016/11/calculating-set-of-universal-numbers.html">blog post</a>.
+</p>
